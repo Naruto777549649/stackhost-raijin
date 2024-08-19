@@ -18,7 +18,7 @@ setup(
         'Framework :: AsyncIO',
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GNU General Public License v3.0 (GPLv3)',
+        'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
         'Operating System :: OS Independent',
         'Programming Language :: Python :: 3.7',
