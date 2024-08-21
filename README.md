@@ -13,6 +13,12 @@
 - **Students**: Perfect for those in need of a reliable environment to test projects without the high costs.
 - **Passionate Developers**: If you're looking for a budget-friendly solution to host your apps, websites, or bots, StackHost has you covered.
 
+## How to use StackHost?
+
+- **Telegram Bot**: open our telegram bot t.me/StackHostBot and access our beta version of StackHost
+- **Website**: our own website for deployment is in development at the moment. (stackhost.me)
+
+
 ## About the Owner
 
 **Owner**: [ishikki-akabane](https://github.com/ishikki-akabane)
