@@ -15,8 +15,8 @@
 
 ## How to use StackHost?
 
-- **Telegram Bot**: open our telegram bot t.me/StackHostBot and access our beta version of StackHost
-- **Website**: our own website for deployment is in development at the moment. (stackhost.me)
+- **Telegram Bot**: open our telegram bot [t.me/StackHostBot](https://t.me/stackhostbot) and access our beta version of StackHost
+- **Website**: our own website for deployment is in development at the moment. ([stackhost.me](https://stackhost.me))
 
 
 ## About the Owner
