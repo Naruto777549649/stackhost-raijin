@@ -6,13 +6,13 @@ with open('README.md', encoding='utf-8') as f:
     readme = f.read()
 
 setup(
-    name='stackhost',
-    author='iShikki',
-    author_email='ishikkiakabane@gmail.com',
+    name='KURO-HACKS',
+    author='RyomenSukuna53',
+    author_email='sufyan532011@gmail.com',
     version='0.0.1',
     long_description=readme,
     long_description_content_type='text/markdown',
-    url='https://github.com/ishikki-akabane/stackhost',
+    url='https://github.com/Naruto777549649/stackhost-raijin',
     license='GNU General Public License v3.0',
     classifiers=[
         'Framework :: AsyncIO',
